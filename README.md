@@ -16,14 +16,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
- Nathan
+<<<<<<< HEAD
+=======
+  Nathan van Munster
+>>>>>>> 2f98ed6d5ec51205533355d04950f1d61968e89f
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  Blauw
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
- 
+Responsive
+
 </details>
 
 
@@ -36,14 +39,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+https://theneworiginals.eu/?gad_source=1&gbraid=0AAAAACUb6MKOeviaYMaryK80DnwKE2Xcc&gclid=CjwKCAiAudG5BhAREiwAWMlSjH2MVXJ6l4AVtR_mAVMSqTeUn5VjiWT3M6O-tHXwLWT_Uc_2JGRV9xoCeI4QAvD_BwE 
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
+  The new originals home screen  
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
+  The new originals shop screen
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
