@@ -16,17 +16,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-<<<<<<< HEAD
-=======
   Nathan van Munster
->>>>>>> 2f98ed6d5ec51205533355d04950f1d61968e89f
 
   #### Je startniveau:
   Blauw
 
   #### Je focus:
-Responsive
-
+  Responsive
+ 
 </details>
 
 
@@ -39,15 +36,15 @@ Responsive
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-https://theneworiginals.eu/?gad_source=1&gbraid=0AAAAACUb6MKOeviaYMaryK80DnwKE2Xcc&gclid=CjwKCAiAudG5BhAREiwAWMlSjH2MVXJ6l4AVtR_mAVMSqTeUn5VjiWT3M6O-tHXwLWT_Uc_2JGRV9xoCeI4QAvD_BwE 
+  https://theneworiginals.eu
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  The new originals home screen  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Home screen  
+  <img src="readme-images/homescreen.PNG" width="375px" alt="home screen">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  The new originals shop screen
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Shop screen 
+  <img src="readme-images/shopscreen.PNG" width="375px" alt="shop screen">
  
 </details>
 
