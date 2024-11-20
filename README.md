@@ -68,7 +68,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdownschets.png" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
@@ -88,7 +88,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  Ik ben deze week van start gegaan met het verschillende zaken rondom de opdracht. Als eerste heb ik een breakdown schets gemaakt van de html pagina van de website die ik na wil gaan bouwen. Ik ben er achter gekomen dat de site uit ontzettend veel div elementen bestaat. 
+  Ik ben deze week van start gegaan met het verschillende zaken rondom de opdracht. Als eerste heb ik een breakdown schets gemaakt van de html pagina van de website die ik na wil gaan bouwen. Ik ben er achter gekomen dat de site uit ontzettend veel div elementen bestaat. Vervolgens ben ik zelf begonnen met het programmeren van de html pagina. 
 
 
   ### Agenda voor meeting
