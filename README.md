@@ -88,7 +88,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik ben deze week van start gegaan met het verschillende zaken rondom de opdracht. Als eerste heb ik een breakdown schets gemaakt van de html pagina van de website die ik na wil gaan bouwen. Ik ben er achter gekomen dat de site uit ontzettend veel div elementen bestaat. 
 
 
   ### Agenda voor meeting
